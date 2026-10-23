@@ -1,0 +1,102 @@
+{
+  "people": {
+    "paati": {
+      "name": "Paati",
+      "meds": [
+        "BP tablet",
+        "Vitamin D"
+      ],
+      "checkins": [
+        {
+          "date": "2026-10-17",
+          "mood": 4,
+          "meds_taken": [
+            "BP tablet",
+            "Vitamin D"
+          ],
+          "symptoms": ""
+        },
+        {
+          "date": "2026-10-18",
+          "mood": 4,
+          "meds_taken": [
+            "BP tablet",
+            "Vitamin D"
+          ],
+          "symptoms": ""
+        },
+        {
+          "date": "2026-10-19",
+          "mood": 3,
+          "meds_taken": [
+            "BP tablet",
+            "Vitamin D"
+          ],
+          "symptoms": ""
+        },
+        {
+          "date": "2026-10-20",
+          "mood": 4,
+          "meds_taken": [
+            "BP tablet",
+            "Vitamin D"
+          ],
+          "symptoms": ""
+        },
+        {
+          "date": "2026-10-21",
+          "mood": 3,
+          "meds_taken": [
+            "Vitamin D"
+          ],
+          "symptoms": ""
+        },
+        {
+          "date": "2026-10-22",
+          "mood": 2,
+          "meds_taken": [
+            "Vitamin D"
+          ],
+          "symptoms": "dizzy in the morning"
+        },
+        {
+          "date": "2026-10-23",
+          "mood": 2,
+          "meds_taken": [
+            "Vitamin D"
+          ],
+          "symptoms": "dizzy in the morning"
+        }
+      ],
+      "memories": [
+        {
+          "date": "2026-10-18",
+          "theme": "love",
+          "year": "1962",
+          "people": [
+            "Raman"
+          ],
+          "story": "I met Raman at my cousin's wedding in Madurai. He spilled sambar on my silk saree and apologised for an hour."
+        },
+        {
+          "date": "2026-10-20",
+          "theme": "food",
+          "year": "1970s",
+          "people": [
+            "children"
+          ],
+          "story": "My pongal on festival mornings. The secret was a spoon of ghee and black pepper roasted in the pot."
+        },
+        {
+          "date": "2026-10-22",
+          "theme": "festival",
+          "year": "1960s",
+          "people": [
+            "Amma"
+          ],
+          "story": "Amma drew kolam at dawn and let me pick the colours. I was never allowed to touch the rice flour."
+        }
+      ]
+    }
+  }
+}
